@@ -588,7 +588,9 @@ iframe{
 .project .icon-box {
     text-align: center;
     background: rgba(204, 204, 204, 0.1);
+   height: 10%;
     padding: 80px 20px;
+    margin-top: 10px;
     transition: all ease-in-out 0.3s;
   }
   
@@ -663,6 +665,8 @@ iframe{
   }
   .icon-box a i{
     color: blue;
+    font-size: 30px;
+    
   }
   
   
